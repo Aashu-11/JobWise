@@ -8,4 +8,6 @@ numpy==1.26.3
 pandas==2.1.4
 reportlab
 scikit-learn==1.3.2
+pdf2image 
+pytesseract 
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz#egg=en_core_web_sm
