@@ -122,11 +122,6 @@ npm run dev
 
 Visit `http://localhost:8080` in your browser to see JobWise in action!
 
-### Deployed Version
-
-Experience JobWise without installation: [JobWise Live Demo](https://jobwise.lovable.app/)
-
----
 
 <div align="center">
 
